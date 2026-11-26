@@ -80,7 +80,7 @@ Our visual identity represents technology, innovation and precision through our 
 ## Connect With Us
 
 - **GitHub:** [CipherFox Technologies](https://github.com/CipherFox-Technologies)
-- **Website:** [https://cipherfox-technologies.pages.dev/]
+- **Website:** https://cipherfox-technologies.pages.dev/
 
 ---
 
