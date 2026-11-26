@@ -1,6 +1,9 @@
-
 <p align="center">
-  <img src="./cipherfox-horizontal.png" width="900" alt="CipherFox Technologies - Code. Build. Scale." />
+  <img
+    src="./cipherfox-horizontal.png.png"
+    width="900"
+    alt="CipherFox Technologies"
+  />
 </p>
 
 <p align="center">
@@ -67,18 +70,11 @@ Our visual identity represents technology, innovation and precision through our 
 <details>
   <summary>Explore our brand assets</summary>
 
-  **Fox Icon**
+ <img src="./cipherfox-icon.png" width="180" alt="CipherFox Icon" />
 
-  <img src="./cipherfox-icon.png" width="180" alt="CipherFox fox icon" />
+ <img src="./cipherfox-stacked.png" width="240" alt="CipherFox Stacked Logo" />
 
-  **Stacked Logo**
-
-  <img src="./cipherfox-stacked.png" width="240" alt="CipherFox stacked logo" />
-
-  **MSME Logo**
-
-  <img src="./msme-logo.png" width="90" alt="MSME logo" />
-
+ <img src="./MSME.png" width="90" alt="MSME Logo" />
 </details>
 
 ## Connect With Us
