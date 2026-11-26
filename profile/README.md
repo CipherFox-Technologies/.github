@@ -1,31 +1,35 @@
 
-<div align="center">
+<p align="center">
+  <img src="./cipherfox-horizontal.png" width="900" alt="CipherFox Technologies - Code. Build. Scale." />
+</p>
 
-# CIPHERFOX TECHNOLOGIES
+<p align="center">
+  <strong>Building Digital Solutions. Creating Opportunities.</strong>
+</p>
 
-### CODE. BUILD. SCALE.
-
-**Building Digital Solutions. Creating Opportunities.**
-
-Software Development | Technology Solutions | Practical Learning
-
-</div>
+<p align="center">
+  Software Development &nbsp; | &nbsp; Technology Solutions &nbsp; | &nbsp; Practical Learning
+</p>
 
 ---
 
-## About Us
+## About CipherFox Technologies
 
-CipherFox Technologies is a software development and technology solutions initiative focused on building practical digital products and delivering technology-driven solutions.
+CipherFox Technologies is a software development and technology solutions company focused on building practical digital products and delivering technology-driven solutions.
 
-We focus on software engineering, web application development, backend systems, and emerging technologies. Alongside our development activities, we provide structured internship programmes that combine technical learning with practical project development.
+Our work focuses on software engineering, web application development, backend systems, database engineering and emerging technologies.
+
+Alongside our software development activities, we provide structured internship programmes combining technical learning, practical project development and guided implementation.
 
 ## Our Services
 
-- **Web Development:** Modern, responsive websites and web applications.
-- **Full-Stack Development:** End-to-end application development.
-- **Backend Engineering:** APIs, server-side systems and database integration.
-- **Business Solutions:** E-commerce platforms and business management systems.
-- **AI Application Development:** Applications integrating artificial intelligence technologies.
+| Service | Description |
+|---|---|
+| Web Development | Modern, responsive websites and web applications |
+| Full-Stack Development | End-to-end application development |
+| Backend Engineering | APIs, server-side systems and database integration |
+| Business Solutions | E-commerce platforms and business management systems |
+| AI Application Development | Applications integrating artificial intelligence technologies |
 
 ## Internship Programmes
 
@@ -56,17 +60,35 @@ Our programme areas include:
 - Apply modern engineering practices.
 - Create opportunities through technology.
 
+## Brand Identity
+
+Our visual identity represents technology, innovation and precision through our signature orange, black, silver and white colour palette.
+
+<details>
+  <summary>Explore our brand assets</summary>
+
+  **Fox Icon**
+
+  <img src="./cipherfox-icon.png" width="180" alt="CipherFox fox icon" />
+
+  **Stacked Logo**
+
+  <img src="./cipherfox-stacked.png" width="240" alt="CipherFox stacked logo" />
+
+  **MSME Logo**
+
+  <img src="./msme-logo.png" width="90" alt="MSME logo" />
+
+</details>
+
 ## Connect With Us
 
 - **GitHub:** [CipherFox Technologies](https://github.com/CipherFox-Technologies)
-- **Website:** https://cipherfox-technologies.pages.dev/
+- **Website:** [CipherFox Technologies](https://cipherfox-technologies.pages.dev/)
 
 ---
 
-<div align="center">
-
-**CIPHERFOX TECHNOLOGIES**
-
-*CODE. BUILD. SCALE.*
-
-</div>
+<p align="center">
+  <strong>CIPHERFOX TECHNOLOGIES</strong><br/>
+  CODE. BUILD. SCALE.
+</p>
