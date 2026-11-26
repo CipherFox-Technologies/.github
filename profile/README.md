@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     src="./cipherfox-horizontal.png.png"
@@ -45,6 +46,22 @@ Our programme areas include:
 - Data Analytics & Business Intelligence
 - Backend Software Development
 
+## Student Resources & Opportunities
+
+Explore our forms to express your interest in CipherFox programmes and access career development support.
+
+### 1. Internship Interest Form
+
+Register your interest in CipherFox Technologies internship programmes and share your details to begin the application process.
+
+[**Fill Internship Interest Form →**](https://forms.gle/dopZNnyQh5S4BjBe6)
+
+### 2. Career Development Form
+
+Share your career development requirements to connect with our career and project support initiatives.
+
+[**Access Career Development Form →**](https://forms.gle/dq55WabutCavwpve8)
+
 ## Technology Stack
 
 | Category | Technologies |
@@ -54,6 +71,24 @@ Our programme areas include:
 | Database | MongoDB, MySQL |
 | Programming | C, C++, Java, Python |
 | Tools | Git, GitHub, VS Code, Postman |
+
+## Selected Development Projects
+
+Explore selected software development projects associated with CipherFox Technologies, demonstrating practical implementation across full-stack engineering and AI-assisted application development.
+
+### 1. Vehicle Service Management System
+
+A MERN-stack application designed to manage vehicle servicing operations and streamline service management workflows.
+
+[**View Repository →**](https://github.com/MonishGowdaSR/VehicleServiceManagement)
+
+### 2. AI-Assisted Task and Project Management System
+
+An AI-assisted application focused on task organization and project management.
+
+[**View Repository →**](https://github.com/MonishGowdaSR/AI-Assisted-Task-and-Project-Management-System)
+
+*Source code for these projects is hosted in the founder's personal GitHub account.*
 
 ## Our Approach
 
@@ -70,11 +105,18 @@ Our visual identity represents technology, innovation and precision through our 
 <details>
   <summary>Explore our brand assets</summary>
 
- <img src="./cipherfox-icon.png" width="180" alt="CipherFox Icon" />
+  **Fox Icon**
 
- <img src="./cipherfox-stacked.png" width="240" alt="CipherFox Stacked Logo" />
+  <img src="./cipherfox-icon.png" width="180" alt="CipherFox Icon" />
 
- <img src="./MSME.png" width="90" alt="MSME Logo" />
+  **Stacked Logo**
+
+  <img src="./cipherfox-stacked.png" width="240" alt="CipherFox Stacked Logo" />
+
+  **MSME Logo**
+
+  <img src="./MSME.png" width="90" alt="MSME Logo" />
+
 </details>
 
 ## Connect With Us
